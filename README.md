@@ -1,6 +1,3 @@
-# riseofanempire
-Rise of an Empire: A Making History Gold Scenario
-
 ![Rise of an Empire A Scenario for Making History The Calm and the Storm Gold Edition](https://raw.githubusercontent.com/tyrelius/MHG-Rise-of-an-Empire/master/art_files/monument_battle.png "Rise of an Empire")
 
 # Rise of an Empire
